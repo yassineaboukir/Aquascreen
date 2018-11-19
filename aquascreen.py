@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os, argparse, sys, json
 
 def parse_args():
